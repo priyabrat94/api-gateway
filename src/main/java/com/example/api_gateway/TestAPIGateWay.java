@@ -4,7 +4,7 @@ package com.example.api_gateway;
 
 public class TestAPIGateWay {
 
-	public  test() {
+	public void test() {
 		System.out.println("New test calss addedd");
 	}
 	
